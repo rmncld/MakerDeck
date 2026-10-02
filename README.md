@@ -1,7 +1,13 @@
 <p align="center"><img src="assets/streamdeck.png" alt="MakerDeck — Your plugin workflow. On your Stream Deck." width="720px"></p>
 
 <p align="center"><strong>15 actions. One active project. Your development tools at your fingertips.</strong></p>
-<p align="center">Windows · Stream Deck 7.1+ · Version 0.1.0.0</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-0.1.0.0-4ADE80?style=for-the-badge" alt="Version 0.1.0.0">
+  <img src="https://img.shields.io/badge/Platform-Windows-63E6FF?style=for-the-badge" alt="Platform Windows">
+  <img src="https://img.shields.io/badge/Stream_Deck-7.1%2B-334155?style=for-the-badge" alt="Stream Deck 7.1+">
+  <img src="https://img.shields.io/badge/Tools-Node_%2B_NPM_%2B_Elgato_CLI-1E3A5F?style=for-the-badge" alt="Node, npm and Elgato CLI">
+</p>
 
 **Marketplace status: submitted for review on October 2, 2026.** MakerDeck is a paid plugin. The Marketplace link will be added after approval and publication.
 
