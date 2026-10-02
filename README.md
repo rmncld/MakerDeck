@@ -1,4 +1,4 @@
-<p align="center"><img src="streamdeck.png" alt="MakerDeck — Your plugin workflow. On your Stream Deck." width="100%"></p>
+<p align="center"><img src="streamdeck.png" alt="MakerDeck — Your plugin workflow. On your Stream Deck." width="720px"></p>
 
 <p align="center"><strong>15 actions. One active project. Your development tools at your fingertips.</strong></p>
 <p align="center">Windows · Stream Deck 7.1+ · Version 0.1.0.0</p>
