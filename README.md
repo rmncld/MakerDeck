@@ -1,4 +1,4 @@
-<p align="center"><img src="streamdeck.png" alt="MakerDeck — Your plugin workflow. On your Stream Deck." width="720px"></p>
+<p align="center"><img src="assets/streamdeck.png" alt="MakerDeck — Your plugin workflow. On your Stream Deck." width="720px"></p>
 
 <p align="center"><strong>15 actions. One active project. Your development tools at your fingertips.</strong></p>
 <p align="center">Windows · Stream Deck 7.1+ · Version 0.1.0.0</p>
@@ -9,11 +9,11 @@ MakerDeck turns your Stream Deck into a command center for Stream Deck plugin de
 
 This repository contains product information, documentation and support resources. MakerDeck's source code and installation package are not distributed here.
 
-[Getting started](GETTING-STARTED.md) · [All actions](#all-15-actions) · [Release notes](CHANGELOG.md) · [Support](SUPPORT.md)
+[Getting started](docs/GETTING-STARTED.md) · [All actions](#all-15-actions) · [Release notes](docs/CHANGELOG.md) · [Support](docs/SUPPORT.md)
 
 ## Your development workspace, within reach
 
-![MakerDeck on a physical Stream Deck, alongside real Windows Terminal output](06-gallery-workspace.png)
+![MakerDeck on a physical Stream Deck, alongside real Windows Terminal output](assets/06-gallery-workspace.png)
 
 - **Set up your tools:** Dev Setup installs Node.js, npm and the official Elgato CLI when needed, then checks readiness.
 - **Choose your project:** My Plugins shows the active project and cycles through projects in your workspace. Project actions follow that selection.
@@ -42,34 +42,34 @@ MakerDeck uses Windows Terminal and the official Elgato CLI. It does not include
 | **Validate** | Validates the active plugin with the official Elgato CLI. |
 | **Package** | Creates a distributable `.streamDeckPlugin` file with the official Elgato CLI. |
 
-![Overview of all 15 MakerDeck actions](07-gallery-all-actions.png)
+![Overview of all 15 MakerDeck actions](assets/07-gallery-all-actions.png)
 
 ## From first project to packaged plugin
 
 ### Create & open
 Launch the creation wizard, open your workspace and start editing in VS Code.
 
-![Create and open a plugin project](01-gallery-create.png)
+![Create and open a plugin project](assets/01-gallery-create.png)
 
 ### Build & watch
 Run your development scripts and follow the output in Windows Terminal.
 
-![Real Build and Watch output](02-gallery-build-watch.png)
+![Real Build and Watch output](assets/02-gallery-build-watch.png)
 
 ### Validate & package
 Use the official Elgato CLI to validate your plugin and produce its distributable package.
 
-![Real validation and packaging output](03-gallery-validate-package.png)
+![Real validation and packaging output](assets/03-gallery-validate-package.png)
 
 ### Plugin Check
 Review the active project, plugin structure and development environment before validation. Reports are saved inside the project at `.makerdeck/plugin-check/preflight-report.html`.
 
-![MakerDeck Plugin Check report](04-gallery-plugin-check.png)
+![MakerDeck Plugin Check report](assets/04-gallery-plugin-check.png)
 
 ### My Plugins
 Keep the active project visible on your Stream Deck. Press the key to move to the next workspace project; project actions update to reflect the selection.
 
-![My Plugins and active-project selection](05-gallery-my-plugins.png)
+![My Plugins and active-project selection](assets/05-gallery-my-plugins.png)
 
 The images use real MakerDeck assets and captured interfaces. Project names and tool versions reflect the captured sessions. The physical Stream Deck illustration combines the supplied device photo with real key images.
 
@@ -88,6 +88,6 @@ MakerDeck provides key actions. It does not include Stream Deck + dial actions, 
 
 Version **0.1.0.0** is pending Elgato Marketplace review. Approval and publication have not yet been confirmed.
 
-For questions, bugs or feature requests, [open an issue](https://github.com/rmncld/MakerDeck/issues). Please read the [support guide](SUPPORT.md) before attaching logs or screenshots.
+For questions, bugs or feature requests, [open an issue](https://github.com/rmncld/MakerDeck/issues). Please read the [support guide](docs/SUPPORT.md) before attaching logs or screenshots.
 
 MakerDeck is an independent product and is not an official Elgato product. Product names and trademarks belong to their respective owners.
